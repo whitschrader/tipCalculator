@@ -1,7 +1,7 @@
 # tips
-tip calculator for codepath review
+<h1>tip calculator for codepath review</h1>
 
-Total Hours: 5
+<h2>Total Hours: 5</h2>
 
 Required user stories:
 
@@ -10,4 +10,5 @@ User can adjust tip amount by selecting the a SegmentedControl
 
 Notes: This is my first swift app
 
-Gif of the app in progress: http://www.gfycat.com/AnguishedBogusKiwi
+![Alt Text](http://i.giphy.com/A2FxdvovNUTKg.gif)
+
